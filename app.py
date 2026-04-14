@@ -64,4 +64,3 @@ while True:
 
     # 5. The Sleep (Crucial for stability)
     time.sleep(5) 
-    # Notice: NO st.rerun() here. The 'while True' handles the loop.
